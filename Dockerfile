@@ -1,0 +1,1 @@
+FROM ddragosd/ansible:2.4.0.0-debian8
